@@ -1,1 +1,5 @@
-algo canino mas 1 antes soft
+este es el archivo txt sin cambios
+
+este es cambio en otrarama
+
+nuevo cambio en otra rama
