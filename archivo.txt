@@ -1,3 +1,5 @@
 este es el archivo txt sin cambios
 
 cambio nuevo en archivo
+
+meto un cambio desde git
